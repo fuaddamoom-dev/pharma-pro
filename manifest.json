@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "فارما برو",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "فارما برو",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "نظام إدارة الصيدليات فارما برو"
+}
